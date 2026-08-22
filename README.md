@@ -1,5 +1,5 @@
 # student-information
-#include<stdio.h>{ int main() 
+#include<stdio.h> int main() {
 char name[50];
 int age;
 char address[100]; 
